@@ -19,4 +19,14 @@ public :
         cout << "Masukan tahun produksi : ";
         cin >> TahunProduksi;
     }
+    void TampilSpek(){
+        cout << "==============Tampil Data=============" << endl;
+        cout << "Nama Barang : " << nama << endl;
+        cout << "Jumlah Barang : " << jumlah << endl;
+        cout << "Kategori Barang : " << kategori << endl;
+        cout << "Tahun Produksi : " << TahunProduksi << endl;
+
+    }
+
 };
+
