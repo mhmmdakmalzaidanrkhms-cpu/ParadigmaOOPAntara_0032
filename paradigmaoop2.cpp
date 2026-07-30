@@ -30,3 +30,16 @@ public :
 
 };
 
+int main(){
+    Barang elektronik;
+    Barang nonelektronik;
+
+    elektronik.InputData();
+    nonelektronik.InputData();
+
+    cout << endl;
+    cout << endl;
+
+    elektronik.TampilSpek();
+    nonelektronik.TampilSpek();
+}
