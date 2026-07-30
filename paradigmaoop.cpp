@@ -20,5 +20,10 @@ int main() {
     mhs.nama = "zidan";
     mhs.nilai = 85.5;
 
+    Mahasiswa mhs1;
+    mhs1.nim = 67890;
+    mhs1.nama = "Akmal";
+    mhs1.nilai = 90.0;
+
 
 }
