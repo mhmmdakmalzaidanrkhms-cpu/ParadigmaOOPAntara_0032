@@ -14,3 +14,11 @@ public:
     }
 };
 
+int main() {
+    Mahasiswa mhs;
+    mhs.nim = 12345;
+    mhs.nama = "zidan";
+    mhs.nilai = 85.5;
+
+
+}
