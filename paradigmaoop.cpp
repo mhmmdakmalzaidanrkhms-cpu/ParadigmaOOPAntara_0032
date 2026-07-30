@@ -25,5 +25,6 @@ int main() {
     mhs1.nama = "Akmal";
     mhs1.nilai = 90.0;
 
-
+    mhs.PrintData();
+    mhs1.PrintData();
 }
